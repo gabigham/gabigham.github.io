@@ -1,0 +1,55 @@
+
+
+body {
+    background-color: lightgray;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    padding: 2px;
+}
+
+.dropdown-container {
+    position: relative;
+  }
+
+.navbar {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 100px;
+}
+
+.nav-link {
+    color: grey;
+}
+.navbar-text {
+    background-color: lightseagreen;
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    background-color: lightseagreen
+}
+
+.navbar-light .navbar-text {
+    color: white;
+}
+.color_text {
+    color: white;
+}
+
+.navbar-light {
+    color: white;
+}
+
+.display-8 {
+    color: lightseagreen;
+}
+
+.jumbotron {
+    margin-top: 2rem;
+    background-color: #FFFFFF;
+}
